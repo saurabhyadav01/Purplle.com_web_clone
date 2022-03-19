@@ -4,7 +4,8 @@ In this project we have tried to clone the “Purplle” website. We had build u
 
 ![logo purplle](https://user-images.githubusercontent.com/67849097/146675002-714b6f21-2573-43f0-83f0-3449230aa5c0.png)
 
-
+#demo
+https://saurabhyadav01.github.io/purplle.om_clone/
 # Purplle-Website-Clone
 #### About Purplle
 >  Purplle is an online store selling cosmetics, fragrances, skin, and hair care products. It gives an online space to beauty and wellness needs that showcases some of the beauty brands and products. Purplle aims to take shopping experience to a different level. Purplle was founded in 2011 and is headquartered in Mumbai, Maharashtra, India.
